@@ -30,7 +30,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="#"><b>Ken&Glee's　Backend</b></a>
+        <a href="#"><b>Ken & Glee</b></a>
     </div>
     <div class="login-logo">
         <a href="#">V1.0.0</a>
