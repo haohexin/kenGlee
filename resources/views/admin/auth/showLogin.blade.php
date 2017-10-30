@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Backend</title>
+    <title>后台管理系统</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.6 -->
@@ -30,10 +30,10 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="#"><b>Backend</b></a>
+        <a href="#"><b>Ken&Glee's　Backend</b></a>
     </div>
     <div class="login-logo">
-        <a href="#">V2.0.0</a>
+        <a href="#">V1.0.0</a>
     </div>
     <!-- /.login-logo -->
     <div class="login-box-body">
